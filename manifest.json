@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "JotItDown",
+    "description": "Type and Forget",
+    "version": "1.0",
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+ }
