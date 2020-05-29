@@ -10,7 +10,7 @@ A chrome extension to jot down your ideas on the new tab page
 6. Enable the extension if not already enabled
 7. Try it out by opening a new tab.
 
-## Upcomming Features
+## Upcoming Features
 - Support for Multiple and Custom Themes
 - Bug Fixes
 
