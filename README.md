@@ -1,5 +1,5 @@
 # JotItDown
-A chrome extension to jot down your ideas on the new tab page
+A chrome extension to jot down your ideas on the new tab
 
 ## Local Setup
 1. Download or Clone this repo
